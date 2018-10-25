@@ -66,6 +66,10 @@ After the new environment is setup, activate it using (windows)
 or if you are on a linux machine
 
     source activate machine_learning 
+    
+    or 
+    
+     . activate machine_learning
 
 Now we have our python environment all set up, we can start working on the assignments. To do so, navigate to the directory where the assignments were installed, and launch the jupyter notebook from the terminal using the command
 
